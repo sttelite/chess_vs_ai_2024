@@ -13,14 +13,6 @@ Follow these steps to build the project:
 
 1. Clone the repository
 
-```
-git clone https://gitlab.mff.cuni.cz/teaching/nprg041/2023-24/mejzlik/havrylid.git
-cd havrylid
-cd project
-cd src
-```
-
-
 2. Configure the project
 Use CMake to configure the project and generate the build system:
 
